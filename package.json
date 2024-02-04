@@ -39,7 +39,8 @@
   },
   "peerDependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-katex": "^3.0.1"
   },
   "devDependencies": {
     "@testing-library/react": "^14.2.1",
